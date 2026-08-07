@@ -2,8 +2,9 @@ pandas
 numpy
 matplotlib
 seaborn
-scipy`
+scipy
 statsmodels
 scikit-learn
 palmerpenguins
 pingouin
+xgboost
